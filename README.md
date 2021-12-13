@@ -9,7 +9,7 @@
 
 ![Visits Badge](https://badges.pufler.dev/visits/prnvbirajdar/prnvbirajdar)
 
-Hello! I'm [Pranav](https://pranavbirajdar.com) 👋, a software developer based in Ottawa, CA🍁. I’m a self-taught developer working on all things front-end. I have experience designing and developing beautiful applications through carefully crafted code and user-centric design that result in engaging experiences.
+Hello! I'm [Pranav](https://pranavbirajdar.com) 👋, a software developer based in Toronto, CA🍁. I’m a front-end developer with experience building performant and accessible applications.
 
 - 👨 Pronouns: He/Him
 - 👨‍💻 I'm currently learning TypeScript with React and Server-side GraphQL
