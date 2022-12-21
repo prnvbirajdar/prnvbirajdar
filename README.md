@@ -7,8 +7,6 @@
   <img align="left" alt="Pranav's LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Visits Badge](https://badges.pufler.dev/visits/prnvbirajdar/prnvbirajdar)
-
 Hello! I'm [Pranav](https://pranavbirajdar.com) 👋, a software developer based in Toronto, CA🍁. I’m a front-end developer with experience building performant and accessible applications.
 
 - 👨 Pronouns: He/Him
