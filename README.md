@@ -4,7 +4,7 @@
   <img align="left" alt="Pranav Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prnvbirajdar/">
-  <img align="left" alt="Pranav's LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pranav's LinkedIn" width="18px" src="https://img.icons8.com/?size=512&id=13930&format=png" />
 </a>
 
 Hello! I'm [Pranav](https://pranavbirajdar.com) 👋, a software developer based in Toronto, CA🍁. I’m a front-end developer with experience building performant and accessible applications.
