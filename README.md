@@ -1,7 +1,6 @@
 ﻿[![Pranav's GitHub Banner](./Assets/banner.png)](https://pranav-birajdar.vercel.app/)
 
-<a href="https://twitter.com/prnvbirajdar">
-  <img align="left" alt="Pranav Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
 </a>
 <a href="https://www.linkedin.com/in/prnvbirajdar/">
   <img align="left" alt="Pranav's LinkedIn" width="18px" src="https://img.icons8.com/?size=512&id=13930&format=png" />
